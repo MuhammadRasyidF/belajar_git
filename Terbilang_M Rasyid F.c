@@ -9,7 +9,7 @@ void terbilang() ;
 void print() ;
 
 int main(){
-    int num ;
+    int numm ;
     char *numTerbilang[255];
     //algorithm
     scan(&num) ;
