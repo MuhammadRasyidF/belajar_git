@@ -15,7 +15,7 @@ public class BigIntegerTest{
         int k = in.nextInt();
 
         System.out.print("WHat is the highest number you can draw? ");
-        int n = in.nextInt();
+        int n = in.nextInt(); // hai
 
         /**
          * Compute binomial coeffiecient n*(n-1)(n-2)*...*(n-K+1)/(1*2*3*...*k)

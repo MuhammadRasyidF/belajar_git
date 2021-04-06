@@ -4,7 +4,7 @@ ip = input("Enter ip: ")
 
 response = DbIpCity.get(ip, api_key="free")
 
-print("\n") #new line
+print("\n") #new line command
 
 print("Region: {0}".format(response.region))
 
