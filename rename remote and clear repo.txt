@@ -1,2 +1,0 @@
---allow-unrelated-histories
-git branch -m master main
